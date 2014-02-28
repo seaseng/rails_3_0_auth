@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Rails30Auth::Application.load_tasks
+Rails3Authentication::Application.load_tasks
